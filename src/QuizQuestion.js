@@ -20,9 +20,9 @@ class QuizQuestion extends Component {
                 return {incorrectAnswer: true}
             })
         }
-
-
     }
+
+    
 
     render() {
         return(
